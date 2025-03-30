@@ -46,16 +46,6 @@ The project uses a dataset containing students' performance scores:
 - **Numeric Columns:** `writing_score`, `reading_score`
 - **Target Variable:** `math_score`
 
-## Usage
-
-### Running the Project
-
-Execute the script to train and evaluate the model:
-
-```sh
-python student_performance.py
-```
-
 ### Workflow
 
 1. Load and clean the dataset.
